@@ -1,0 +1,76 @@
+[
+    {
+        "id": "1",
+        "name": "Mr. Alex",
+        "photo": "https://www.eatthis.com/wp-content/uploads/sites/4/2022/08/italian-chef.jpg?quality=82&strip=1&w=640",
+        "experience": "5 Years ",
+        "number_of_recipe": "4",
+        "recipe_name": "Fettucccine Alfredo, Polenta, Pizza Margherita, Vitello Tonnato",
+        "rating": "4.5",
+        "likes": "50k",
+        "description": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed",
+        "cooking_method": "the processes of cooking most Italian foods aren't different from cooking methods you may already know. Italians pan-roast, oven-roast, sautee, braise, broil, grill, pan-sear, simmer and bake"
+    },
+    {
+        "id": "2",
+        "name": "Giovanni",
+        "photo": "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.charlottemagazine.com/content/uploads/data-import/c031fa3c/08_19_19_civetta_cltmag_0361.jpg",
+        "experience": "6 Years ",
+        "number_of_recipe": "5",
+        "recipe_name": "Gelato, Bruschetta, Pizza Margherita, Fettucccine Alfredo",
+        "rating": "4.5",
+        "likes": "50k",
+        "description": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed",
+        "cooking_method": "the processes of cooking most Italian foods aren't different from cooking methods you may already know. Italians pan-roast, oven-roast, sautee, braise, broil, grill, pan-sear, simmer and bake"
+    },
+    {
+        "id": "3",
+        "name": "Marco le",
+        "photo": "https://www.eatthis.com/wp-content/uploads/sites/4/2022/08/italian-chef.jpg?quality=82&strip=1&w=640",
+        "experience": "8 Years ",
+        "number_of_recipe": "5",
+        "recipe_name": "Bruschetta, Polenta, Cannoli, Risotto ala Milanese",
+        "rating": "4.1",
+        "likes": "58k",
+        "description": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed",
+        "cooking_method": "the processes of cooking most Italian foods aren't different from cooking methods you may already know. Italians pan-roast, oven-roast, sautee, braise, broil, grill, pan-sear, simmer and bake"
+    },
+    {
+        "id": "4",
+        "name": "Francesco ",
+        "photo": "https://www.eatthis.com/wp-content/uploads/sites/4/2022/08/italian-chef.jpg?quality=82&strip=1&w=640",
+        "experience": "9 Years ",
+        "number_of_recipe": "7",
+        "recipe_name": "Hot Dog, Polenta, Pizza Margherita, Vitello Tonnato",
+        "rating": "4.9",
+        "likes": "110k",
+        "description": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed",
+        "cooking_method": "the processes of cooking most Italian foods aren't different from cooking methods you may already know. Italians pan-roast, oven-roast, sautee, braise, broil, grill, pan-sear, simmer and bake"
+    },
+    {
+        "id": "5",
+        "name": "Mr. Alex ",
+        "photo": "https://www.eatthis.com/wp-content/uploads/sites/4/2022/08/italian-chef.jpg?quality=82&strip=1&w=640",
+        "experience": "7 Years ",
+        "number_of_recipe": "10",
+        "recipe_name": "Grill Chicken, Osso Buco ala Milanese, Pizza Margherita, Galato",
+        "rating": "5.0",
+        "likes": "390k",
+        "description": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed",
+        "cooking_method": "the processes of cooking most Italian foods aren't different from cooking methods you may already know. Italians pan-roast, oven-roast, sautee, braise, broil, grill, pan-sear, simmer and bake"
+    },
+    {
+        "id": "6",
+        "name": "Mr. Alex",
+        "photo": "https://www.eatthis.com/wp-content/uploads/sites/4/2022/08/italian-chef.jpg?quality=82&strip=1&w=640",
+        "experience": "5 Years ",
+        "number_of_recipe": "5",
+        "recipe_name": "Vitello Tonnato, Hot Dog, Polenta, Pizza Margherita ",
+        "rating": "4.5",
+        "likes": "90k",
+        "description": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed",
+        "cooking_method": "the processes of cooking most Italian foods aren't different from cooking methods you may already know. Italians pan-roast, oven-roast, sautee, braise, broil, grill, pan-sear, simmer and bake"
+    }
+    
+    
+]
